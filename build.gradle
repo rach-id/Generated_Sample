@@ -1,0 +1,36 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        maven {
+            url 'https://dl.bintray.com/hotkeytlt/maven'
+        }
+        maven {
+            url 'https://repo.gradle.org/gradle/libs-releases'
+        }
+        dependencies {
+            classpath 'org.web3j.openapi:web3j-openapi-gradle-plugin:4.5.12.2'
+        }
+     }
+
+}
+
+apply plugin: 'org.web3j.openapi'
+
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+	mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+//
+web3j {
+    generatedPackageName = "hehe.hioho"
+}

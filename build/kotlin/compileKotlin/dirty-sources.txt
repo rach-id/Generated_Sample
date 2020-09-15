@@ -1,0 +1,15 @@
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/helloworld/HelloWorldResource.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/helloworld/HelloWorldLifecycle.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/helloworld/HelloWorldEvents.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/helloworld/model/GreetingEventResponse.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/helloworld/model/SayItParameters.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/helloworld/events/GreetingEventResource.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/SimpleProjectResource.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/core/SimpleProjectApi.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/server/helloworld/eventsImpl/GreetingEventResourceImpl.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/server/helloworld/HelloWorldEventsImpl.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/server/helloworld/HelloWorldLifecycleImpl.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/server/helloworld/HelloWorldResourceImpl.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/server/SimpleProjectApiImpl.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/server/SimpleProjectResourceImpl.kt
+/Users/rachidchami/Dev/SimpleProject/build/generated/source/web3j/main/kotlin/hehe/hioho/server/SimpleProjectResourceProvider.kt
