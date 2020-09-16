@@ -18,3 +18,4 @@ mainClassName = 'com.test.CustomMain'
 
 then run `./gradlew run`
 
+**Check web3j-openapi-gradle-plugin for how to generate swagger-ui**
